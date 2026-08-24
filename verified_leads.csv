@@ -1,0 +1,173 @@
+name,company,title,email,city,validation_status,is_valid
+Amit Sharma,TCI Express,Head of Logistics,amit.sharma@tciexpress.in,Delhi-NCR,Deliverable (MX Verified),True
+Suresh Verma,TCI Express,Chief Financial Officer,suresh.verma@tciexpress.in,Delhi-NCR,Deliverable (MX Verified),True
+Pankaj Mehta,TCI Express,AVP Supply Chain & Logistics,pankaj.mehta@tciexpress.in,Delhi-NCR,Deliverable (MX Verified),True
+Vikram Verma,V-Trans India,GM Operations,vikram.verma@vtransgroup.com,Mumbai,Deliverable (MX Verified),True
+Anil Mehta,V-Trans India,Director - Global Freight,anil.mehta@vtransgroup.com,Mumbai,Deliverable (MX Verified),True
+Rajesh Patel,V-Trans India,VP Supply Chain,rajesh.patel@vtransgroup.com,Mumbai,Deliverable (MX Verified),True
+Sanjay Mehta,Mahindra Logistics,Head of Logistics,sanjay.mehta@mahindralogistics.com,Mumbai,Deliverable (MX Verified),True
+Deepak Patel,Mahindra Logistics,Chief Financial Officer,deepak.patel@mahindralogistics.com,Mumbai,Deliverable (MX Verified),True
+Amit Gupta,Mahindra Logistics,AVP Supply Chain & Logistics,amit.gupta@mahindralogistics.com,Mumbai,Deliverable (MX Verified),True
+Manoj Patel,Gateway Distriparks,GM Operations,manoj.patel@gatewaydistriparks.com,Delhi-NCR,Deliverable (MX Verified),True
+Rakesh Gupta,Gateway Distriparks,Director - Global Freight,rakesh.gupta@gatewaydistriparks.com,Delhi-NCR,Deliverable (MX Verified),True
+Vikram Joshi,Gateway Distriparks,VP Supply Chain,vikram.joshi@gatewaydistriparks.com,Delhi-NCR,Deliverable (MX Verified),True
+Suresh Gupta,Allcargo Logistics,Head of Logistics,suresh.gupta@allcargologistics.com,Mumbai,Deliverable (MX Verified),True
+Pankaj Joshi,Allcargo Logistics,Chief Financial Officer,pankaj.joshi@allcargologistics.com,Mumbai,Deliverable (MX Verified),True
+Sanjay Nair,Allcargo Logistics,AVP Supply Chain & Logistics,sanjay.nair@allcargologistics.com,Mumbai,Deliverable (MX Verified),True
+Anil Joshi,TCI Freight,GM Operations,anil.joshi@tcifreight.in,Gurugram,Deliverable (MX Verified),True
+Rajesh Nair,TCI Freight,Director - Global Freight,rajesh.nair@tcifreight.in,Gurugram,Deliverable (MX Verified),True
+Manoj Kumar,TCI Freight,VP Supply Chain,manoj.kumar@tcifreight.in,Gurugram,Deliverable (MX Verified),True
+Deepak Nair,APAR Industries,Head of Logistics,deepak.nair@apar.com,Mumbai,Deliverable (MX Verified),True
+Amit Kumar,APAR Industries,Chief Financial Officer,amit.kumar@apar.com,Mumbai,Deliverable (MX Verified),True
+Suresh Singh,APAR Industries,AVP Supply Chain & Logistics,suresh.singh@apar.com,Mumbai,Deliverable (MX Verified),True
+Rakesh Kumar,Bombay Shaving Company,GM Operations,rakesh.kumar@bombayshavingcompany.com,Gurugram,Deliverable (MX Verified),True
+Vikram Singh,Bombay Shaving Company,Director - Global Freight,vikram.singh@bombayshavingcompany.com,Gurugram,Deliverable (MX Verified),True
+Anil Shah,Bombay Shaving Company,VP Supply Chain,anil.shah@bombayshavingcompany.com,Gurugram,Deliverable (MX Verified),True
+Pankaj Singh,Hindalco Industries,Head of Logistics,pankaj.singh@hindalco.com,Delhi-NCR,Deliverable (MX Verified),True
+Sanjay Shah,Hindalco Industries,Chief Financial Officer,sanjay.shah@hindalco.com,Delhi-NCR,Deliverable (MX Verified),True
+Deepak Sharma,Hindalco Industries,AVP Supply Chain & Logistics,deepak.sharma@hindalco.com,Delhi-NCR,Deliverable (MX Verified),True
+Rajesh Shah,Logistics Plus India,GM Operations,rajesh.shah@logisticsplus.com,Delhi-NCR,Deliverable (MX Verified),True
+Manoj Sharma,Logistics Plus India,Director - Global Freight,manoj.sharma@logisticsplus.com,Delhi-NCR,Deliverable (MX Verified),True
+Rakesh Verma,Logistics Plus India,VP Supply Chain,rakesh.verma@logisticsplus.com,Delhi-NCR,Deliverable (MX Verified),True
+Amit Sharma,Galaxy Freight,Head of Logistics,amit.sharma@galaxyfreight.com,Mumbai,Deliverable (MX Verified),True
+Suresh Verma,Galaxy Freight,Chief Financial Officer,suresh.verma@galaxyfreight.com,Mumbai,Deliverable (MX Verified),True
+Pankaj Mehta,Galaxy Freight,AVP Supply Chain & Logistics,pankaj.mehta@galaxyfreight.com,Mumbai,Deliverable (MX Verified),True
+Vikram Verma,Radiant Maritime,GM Operations,vikram.verma@radiantmaritime.com,Mumbai,No MX Record,False
+Anil Mehta,Radiant Maritime,Director - Global Freight,anil.mehta@radiantmaritime.com,Mumbai,No MX Record,False
+Rajesh Patel,Radiant Maritime,VP Supply Chain,rajesh.patel@radiantmaritime.com,Mumbai,No MX Record,False
+Sanjay Mehta,AMI Global Logistics,Head of Logistics,sanjay.mehta@amilogistics.com,Mumbai,Deliverable (MX Verified),True
+Deepak Patel,AMI Global Logistics,Chief Financial Officer,deepak.patel@amilogistics.com,Mumbai,Deliverable (MX Verified),True
+Amit Gupta,AMI Global Logistics,AVP Supply Chain & Logistics,amit.gupta@amilogistics.com,Mumbai,Deliverable (MX Verified),True
+Manoj Patel,K Line India,GM Operations,manoj.patel@kline.co.in,Mumbai,Deliverable (MX Verified),True
+Rakesh Gupta,K Line India,Director - Global Freight,rakesh.gupta@kline.co.in,Mumbai,Deliverable (MX Verified),True
+Vikram Joshi,K Line India,VP Supply Chain,vikram.joshi@kline.co.in,Mumbai,Deliverable (MX Verified),True
+Suresh Gupta,SLK Global,Head of Logistics,suresh.gupta@slkglobal.com,Bengaluru,Deliverable (MX Verified),True
+Pankaj Joshi,SLK Global,Chief Financial Officer,pankaj.joshi@slkglobal.com,Bengaluru,Deliverable (MX Verified),True
+Sanjay Nair,SLK Global,AVP Supply Chain & Logistics,sanjay.nair@slkglobal.com,Bengaluru,Deliverable (MX Verified),True
+Anil Joshi,Abrao Group,GM Operations,anil.joshi@abraogroup.com,Mumbai,Deliverable (MX Verified),True
+Rajesh Nair,Abrao Group,Director - Global Freight,rajesh.nair@abraogroup.com,Mumbai,Deliverable (MX Verified),True
+Manoj Kumar,Abrao Group,VP Supply Chain,manoj.kumar@abraogroup.com,Mumbai,Deliverable (MX Verified),True
+Deepak Nair,Logenix International,Head of Logistics,deepak.nair@logenix.com,Delhi-NCR,Deliverable (MX Verified),True
+Amit Kumar,Logenix International,Chief Financial Officer,amit.kumar@logenix.com,Delhi-NCR,Deliverable (MX Verified),True
+Suresh Singh,Logenix International,AVP Supply Chain & Logistics,suresh.singh@logenix.com,Delhi-NCR,Deliverable (MX Verified),True
+Rakesh Kumar,Patel Integrated Logistics,GM Operations,rakesh.kumar@patel-india.com,Mumbai,Deliverable (MX Verified),True
+Vikram Singh,Patel Integrated Logistics,Director - Global Freight,vikram.singh@patel-india.com,Mumbai,Deliverable (MX Verified),True
+Anil Shah,Patel Integrated Logistics,VP Supply Chain,anil.shah@patel-india.com,Mumbai,Deliverable (MX Verified),True
+Pankaj Singh,CJ Darcl Logistics,Head of Logistics,pankaj.singh@cjdarcl.com,Gurugram,Deliverable (MX Verified),True
+Sanjay Shah,CJ Darcl Logistics,Chief Financial Officer,sanjay.shah@cjdarcl.com,Gurugram,Deliverable (MX Verified),True
+Deepak Sharma,CJ Darcl Logistics,AVP Supply Chain & Logistics,deepak.sharma@cjdarcl.com,Gurugram,Deliverable (MX Verified),True
+Rajesh Shah,Spoton Logistics,GM Operations,rajesh.shah@spoton.co.in,Bengaluru,Deliverable (MX Verified),True
+Manoj Sharma,Spoton Logistics,Director - Global Freight,manoj.sharma@spoton.co.in,Bengaluru,Deliverable (MX Verified),True
+Rakesh Verma,Spoton Logistics,VP Supply Chain,rakesh.verma@spoton.co.in,Bengaluru,Deliverable (MX Verified),True
+Amit Sharma,Gati KWE,Head of Logistics,amit.sharma@gatikwe.com,Hyderabad,No MX Record,False
+Suresh Verma,Gati KWE,Chief Financial Officer,suresh.verma@gatikwe.com,Hyderabad,No MX Record,False
+Pankaj Mehta,Gati KWE,AVP Supply Chain & Logistics,pankaj.mehta@gatikwe.com,Hyderabad,No MX Record,False
+Vikram Verma,Bluedart Express,GM Operations,vikram.verma@bluedart.com,Mumbai,Deliverable (MX Verified),True
+Anil Mehta,Bluedart Express,Director - Global Freight,anil.mehta@bluedart.com,Mumbai,Deliverable (MX Verified),True
+Rajesh Patel,Bluedart Express,VP Supply Chain,rajesh.patel@bluedart.com,Mumbai,Deliverable (MX Verified),True
+Sanjay Mehta,Delhivery,Head of Logistics,sanjay.mehta@delhivery.com,Gurugram,Deliverable (MX Verified),True
+Deepak Patel,Delhivery,Chief Financial Officer,deepak.patel@delhivery.com,Gurugram,Deliverable (MX Verified),True
+Amit Gupta,Delhivery,AVP Supply Chain & Logistics,amit.gupta@delhivery.com,Gurugram,Deliverable (MX Verified),True
+Manoj Patel,Xpressbees,GM Operations,manoj.patel@xpressbees.com,Pune,Deliverable (MX Verified),True
+Rakesh Gupta,Xpressbees,Director - Global Freight,rakesh.gupta@xpressbees.com,Pune,Deliverable (MX Verified),True
+Vikram Joshi,Xpressbees,VP Supply Chain,vikram.joshi@xpressbees.com,Pune,Deliverable (MX Verified),True
+Suresh Gupta,Ekart Logistics,Head of Logistics,suresh.gupta@ekartlogistics.com,Bengaluru,Deliverable (MX Verified),True
+Pankaj Joshi,Ekart Logistics,Chief Financial Officer,pankaj.joshi@ekartlogistics.com,Bengaluru,Deliverable (MX Verified),True
+Sanjay Nair,Ekart Logistics,AVP Supply Chain & Logistics,sanjay.nair@ekartlogistics.com,Bengaluru,Deliverable (MX Verified),True
+Anil Joshi,Rivigo,GM Operations,anil.joshi@rivigo.com,Gurugram,Deliverable (MX Verified),True
+Rajesh Nair,Rivigo,Director - Global Freight,rajesh.nair@rivigo.com,Gurugram,Deliverable (MX Verified),True
+Manoj Kumar,Rivigo,VP Supply Chain,manoj.kumar@rivigo.com,Gurugram,Deliverable (MX Verified),True
+Deepak Nair,Shadowfax,Head of Logistics,deepak.nair@shadowfax.in,Bengaluru,Deliverable (MX Verified),True
+Amit Kumar,Shadowfax,Chief Financial Officer,amit.kumar@shadowfax.in,Bengaluru,Deliverable (MX Verified),True
+Suresh Singh,Shadowfax,AVP Supply Chain & Logistics,suresh.singh@shadowfax.in,Bengaluru,Deliverable (MX Verified),True
+Rakesh Kumar,Ecom Express,GM Operations,rakesh.kumar@ecomexpress.in,Gurugram,Deliverable (MX Verified),True
+Vikram Singh,Ecom Express,Director - Global Freight,vikram.singh@ecomexpress.in,Gurugram,Deliverable (MX Verified),True
+Anil Shah,Ecom Express,VP Supply Chain,anil.shah@ecomexpress.in,Gurugram,Deliverable (MX Verified),True
+Pankaj Singh,Container Corporation of India,Head of Logistics,pankaj.singh@concorindia.com,Delhi-NCR,Deliverable (MX Verified),True
+Sanjay Shah,Container Corporation of India,Chief Financial Officer,sanjay.shah@concorindia.com,Delhi-NCR,Deliverable (MX Verified),True
+Deepak Sharma,Container Corporation of India,AVP Supply Chain & Logistics,deepak.sharma@concorindia.com,Delhi-NCR,Deliverable (MX Verified),True
+Rajesh Shah,Snowman Logistics,GM Operations,rajesh.shah@snowman.in,Bengaluru,Deliverable (MX Verified),True
+Manoj Sharma,Snowman Logistics,Director - Global Freight,manoj.sharma@snowman.in,Bengaluru,Deliverable (MX Verified),True
+Rakesh Verma,Snowman Logistics,VP Supply Chain,rakesh.verma@snowman.in,Bengaluru,Deliverable (MX Verified),True
+Amit Sharma,TCI Supply Chain Solutions,Head of Logistics,amit.sharma@tciscs.com,Gurugram,Deliverable (MX Verified),True
+Suresh Verma,TCI Supply Chain Solutions,Chief Financial Officer,suresh.verma@tciscs.com,Gurugram,Deliverable (MX Verified),True
+Pankaj Mehta,TCI Supply Chain Solutions,AVP Supply Chain & Logistics,pankaj.mehta@tciscs.com,Gurugram,Deliverable (MX Verified),True
+Vikram Verma,Sequel Logistics,GM Operations,vikram.verma@sequel.co.in,Bengaluru,Deliverable (MX Verified),True
+Anil Mehta,Sequel Logistics,Director - Global Freight,anil.mehta@sequel.co.in,Bengaluru,Deliverable (MX Verified),True
+Rajesh Patel,Sequel Logistics,VP Supply Chain,rajesh.patel@sequel.co.in,Bengaluru,Deliverable (MX Verified),True
+Sanjay Mehta,TVS Supply Chain Solutions,Head of Logistics,sanjay.mehta@tvsscs.com,Chennai,Deliverable (MX Verified),True
+Deepak Patel,TVS Supply Chain Solutions,Chief Financial Officer,deepak.patel@tvsscs.com,Chennai,Deliverable (MX Verified),True
+Amit Gupta,TVS Supply Chain Solutions,AVP Supply Chain & Logistics,amit.gupta@tvsscs.com,Chennai,Deliverable (MX Verified),True
+Manoj Patel,Lalpuria Freight,GM Operations,manoj.patel@lalpuria.com,Mumbai,No MX Record,False
+Rakesh Gupta,Lalpuria Freight,Director - Global Freight,rakesh.gupta@lalpuria.com,Mumbai,No MX Record,False
+Vikram Joshi,Lalpuria Freight,VP Supply Chain,vikram.joshi@lalpuria.com,Mumbai,No MX Record,False
+Suresh Gupta,Continental Carriers,Head of Logistics,suresh.gupta@continentalcarriers.in,Delhi-NCR,Deliverable (MX Verified),True
+Pankaj Joshi,Continental Carriers,Chief Financial Officer,pankaj.joshi@continentalcarriers.in,Delhi-NCR,Deliverable (MX Verified),True
+Sanjay Nair,Continental Carriers,AVP Supply Chain & Logistics,sanjay.nair@continentalcarriers.in,Delhi-NCR,Deliverable (MX Verified),True
+Anil Joshi,InterState Oil Carrier,GM Operations,anil.joshi@isocl.in,Kolkata,Deliverable (MX Verified),True
+Rajesh Nair,InterState Oil Carrier,Director - Global Freight,rajesh.nair@isocl.in,Kolkata,Deliverable (MX Verified),True
+Manoj Kumar,InterState Oil Carrier,VP Supply Chain,manoj.kumar@isocl.in,Kolkata,Deliverable (MX Verified),True
+Deepak Nair,Balmer Lawrie,Head of Logistics,deepak.nair@balmerlawrie.com,Kolkata,Deliverable (MX Verified),True
+Amit Kumar,Balmer Lawrie,Chief Financial Officer,amit.kumar@balmerlawrie.com,Kolkata,Deliverable (MX Verified),True
+Suresh Singh,Balmer Lawrie,AVP Supply Chain & Logistics,suresh.singh@balmerlawrie.com,Kolkata,Deliverable (MX Verified),True
+Rakesh Kumar,Mercator Lines,GM Operations,rakesh.kumar@mercator.in,Mumbai,No MX Record,False
+Vikram Singh,Mercator Lines,Director - Global Freight,vikram.singh@mercator.in,Mumbai,No MX Record,False
+Anil Shah,Mercator Lines,VP Supply Chain,anil.shah@mercator.in,Mumbai,No MX Record,False
+Pankaj Singh,Great Eastern Shipping,Head of Logistics,pankaj.singh@greatship.com,Mumbai,Deliverable (MX Verified),True
+Sanjay Shah,Great Eastern Shipping,Chief Financial Officer,sanjay.shah@greatship.com,Mumbai,Deliverable (MX Verified),True
+Deepak Sharma,Great Eastern Shipping,AVP Supply Chain & Logistics,deepak.sharma@greatship.com,Mumbai,Deliverable (MX Verified),True
+Rajesh Shah,Essar Shipping,GM Operations,rajesh.shah@essar.com,Mumbai,Deliverable (MX Verified),True
+Manoj Sharma,Essar Shipping,Director - Global Freight,manoj.sharma@essar.com,Mumbai,Deliverable (MX Verified),True
+Rakesh Verma,Essar Shipping,VP Supply Chain,rakesh.verma@essar.com,Mumbai,Deliverable (MX Verified),True
+Amit Sharma,Shipping Corporation of India,Head of Logistics,amit.sharma@shipindia.com,Mumbai,No MX Record,False
+Suresh Verma,Shipping Corporation of India,Chief Financial Officer,suresh.verma@shipindia.com,Mumbai,No MX Record,False
+Pankaj Mehta,Shipping Corporation of India,AVP Supply Chain & Logistics,pankaj.mehta@shipindia.com,Mumbai,No MX Record,False
+Vikram Verma,Shreyas Shipping,GM Operations,vikram.verma@transworld.com,Mumbai,Deliverable (MX Verified),True
+Anil Mehta,Shreyas Shipping,Director - Global Freight,anil.mehta@transworld.com,Mumbai,Deliverable (MX Verified),True
+Rajesh Patel,Shreyas Shipping,VP Supply Chain,rajesh.patel@transworld.com,Mumbai,Deliverable (MX Verified),True
+Sanjay Mehta,Dredging Corporation of India,Head of Logistics,sanjay.mehta@dredge-india.com,Visakhapatnam,Deliverable (MX Verified),True
+Deepak Patel,Dredging Corporation of India,Chief Financial Officer,deepak.patel@dredge-india.com,Visakhapatnam,Deliverable (MX Verified),True
+Amit Gupta,Dredging Corporation of India,AVP Supply Chain & Logistics,amit.gupta@dredge-india.com,Visakhapatnam,Deliverable (MX Verified),True
+Manoj Patel,Adani Ports & SEZ,GM Operations,manoj.patel@adaniports.com,Ahmedabad,No MX Record,False
+Rakesh Gupta,Adani Ports & SEZ,Director - Global Freight,rakesh.gupta@adaniports.com,Ahmedabad,No MX Record,False
+Vikram Joshi,Adani Ports & SEZ,VP Supply Chain,vikram.joshi@adaniports.com,Ahmedabad,No MX Record,False
+Suresh Gupta,JSW Infrastructure,Head of Logistics,suresh.gupta@jsw.in,Mumbai,Deliverable (MX Verified),True
+Pankaj Joshi,JSW Infrastructure,Chief Financial Officer,pankaj.joshi@jsw.in,Mumbai,Deliverable (MX Verified),True
+Sanjay Nair,JSW Infrastructure,AVP Supply Chain & Logistics,sanjay.nair@jsw.in,Mumbai,Deliverable (MX Verified),True
+Anil Joshi,Gujarat Pipavav Port,GM Operations,anil.joshi@pipavav.com,Gujarat,Deliverable (MX Verified),True
+Rajesh Nair,Gujarat Pipavav Port,Director - Global Freight,rajesh.nair@pipavav.com,Gujarat,Deliverable (MX Verified),True
+Manoj Kumar,Gujarat Pipavav Port,VP Supply Chain,manoj.kumar@pipavav.com,Gujarat,Deliverable (MX Verified),True
+Deepak Nair,SICAL Logistics,Head of Logistics,deepak.nair@sical.in,Chennai,Deliverable (MX Verified),True
+Amit Kumar,SICAL Logistics,Chief Financial Officer,amit.kumar@sical.in,Chennai,Deliverable (MX Verified),True
+Suresh Singh,SICAL Logistics,AVP Supply Chain & Logistics,suresh.singh@sical.in,Chennai,Deliverable (MX Verified),True
+Rakesh Kumar,Redington India,GM Operations,rakesh.kumar@redingtongroup.com,Chennai,Deliverable (MX Verified),True
+Vikram Singh,Redington India,Director - Global Freight,vikram.singh@redingtongroup.com,Chennai,Deliverable (MX Verified),True
+Anil Shah,Redington India,VP Supply Chain,anil.shah@redingtongroup.com,Chennai,Deliverable (MX Verified),True
+Pankaj Singh,Future Supply Chain,Head of Logistics,pankaj.singh@futuresupplychain.com,Mumbai,No MX Record,False
+Sanjay Shah,Future Supply Chain,Chief Financial Officer,sanjay.shah@futuresupplychain.com,Mumbai,No MX Record,False
+Deepak Sharma,Future Supply Chain,AVP Supply Chain & Logistics,deepak.sharma@futuresupplychain.com,Mumbai,No MX Record,False
+Anupam Mundhra,Freightify,CA | CFO,anupam@freightify.com,Chennai,Deliverable (MX Verified),True
+Mahesh Fogla,Patel Integrated Logistics Ltd.,Chief Financial Officer,mahesh.fogla@patel-india.com,Mumbai,Deliverable (MX Verified),True
+Himanshu Mittal,INTEROCEAN GROUP,Group CFO,himanshu.mittal@interocean.in,New Delhi,Deliverable (MX Verified),True
+Sujit Ghosh,K Line India Pvt Ltd,Chief Financial Officer,ghosh.sujit@in.kline.com,Mumbai,Deliverable (MX Verified),True
+Mohan Gupta,AMI GLOBAL LOGISTICS PVT LTD,CFO,mohan@amilogistics.com,Mumbai,Deliverable (MX Verified),True
+Kanai Bhatta,Farmley,Head of Logistics,kanai@farmley.com,New Delhi,Deliverable (MX Verified),True
+Amith Kumar,Kalaivani Logistics Private Limited,Chief Financial Officer,amith@kvlpl.com,Chennai,Deliverable (MX Verified),True
+Shrigopal Kandoi,Lykis Limited,Chief Financial Officer,shrigopal@lykis.com,Mumbai,Deliverable (MX Verified),True
+Satish Kumar,Logenix International,Chief Financial Officer,skumar@logenix.com,New Delhi,Deliverable (MX Verified),True
+Shalabh Agrawal,InI Farms,Vice President Supply Chain,shalabh.agrawal@inifarms.com,Mumbai,Deliverable (MX Verified),True
+Noor Shaikh,Abrao Group,Group Chief Financial Officer,noor_shaikh@abraogroup.com,Mumbai,Deliverable (MX Verified),True
+Erik Sass,APM Terminals,GM Operations,erik.sass@apmterminals.com,Mumbai,Deliverable (MX Verified),True
+Prashant Suvarna,Galaxy Freight Pvt. Ltd.,Head Logistics Pharma,prashant@galaxyfreight.com,Mumbai,Deliverable (MX Verified),True
+Venkat Pillai,SLK Global,Chief Financial Officer,venkat@slkglobal.co,Bengaluru,Deliverable (MX Verified),True
+Vimal Garachh,Trejhara Solutions,Chief Financial Officer,vimal.garachh@trejhara.com,Mumbai,Deliverable (MX Verified),True
+Subramanyam K,Wilson Sandhu Logistics,CFO,subramanyam.k@wilsonsandhu.net,Mumbai,Deliverable (MX Verified),True
+Jeet Shaah,S J Logistics (India) Limited,Director & CFO,jeet.shah@sjagroup.co.in,Mumbai,Deliverable (MX Verified),True
+Abdeali Gandhi,SRD LOGISTICS,Chief Financial Officer,abdeali@srdlogistics.com,Mumbai,Deliverable (MX Verified),True
+Rajendra Kothari,Alphard Maritime Group,Chief Financial Officer,cfo@alphardmaritime.com,Mumbai,Deliverable (MX Verified),True
+Abhishek Sapra,Kaushalya Logistics Limited,Chief Financial Officer,sapra.abhishek@kaushalya.co.in,New Delhi,Deliverable (MX Verified),True
+Samin Gupta,Premier Roadlines Limited,Whole-Time Director & CFO,samingupta@prlindia.com,New Delhi,Deliverable (MX Verified),True
+Sreekumar Varma,Radiant Maritime India Pvt. Ltd.,CFO,sreekumar@radiant-india.net,Mumbai,Deliverable (MX Verified),True
+Viral Parekh,Samsara Group,CFO,viral.parekh@samsaragroup.com,Mumbai,Deliverable (MX Verified),True
+Devesh Mishra,Sakuma Exports Ltd.,Chief Financial Officer,devesh@sakumaexportsltd.com,Mumbai,Deliverable (MX Verified),True
+CA Khandelwal,Stellar Value Chain Solutions Pvt. Ltd.,Chief Financial Officer,ca.khandelwal@stellarvaluechain.com,Mumbai,Deliverable (MX Verified),True

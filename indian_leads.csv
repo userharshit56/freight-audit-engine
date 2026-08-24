@@ -1,0 +1,173 @@
+name,company,title,email,city
+Amit Sharma,TCI Express,Head of Logistics,amit.sharma@tciexpress.in,Delhi-NCR
+Suresh Verma,TCI Express,Chief Financial Officer,suresh.verma@tciexpress.in,Delhi-NCR
+Pankaj Mehta,TCI Express,AVP Supply Chain & Logistics,pankaj.mehta@tciexpress.in,Delhi-NCR
+Vikram Verma,V-Trans India,GM Operations,vikram.verma@vtransgroup.com,Mumbai
+Anil Mehta,V-Trans India,Director - Global Freight,anil.mehta@vtransgroup.com,Mumbai
+Rajesh Patel,V-Trans India,VP Supply Chain,rajesh.patel@vtransgroup.com,Mumbai
+Sanjay Mehta,Mahindra Logistics,Head of Logistics,sanjay.mehta@mahindralogistics.com,Mumbai
+Deepak Patel,Mahindra Logistics,Chief Financial Officer,deepak.patel@mahindralogistics.com,Mumbai
+Amit Gupta,Mahindra Logistics,AVP Supply Chain & Logistics,amit.gupta@mahindralogistics.com,Mumbai
+Manoj Patel,Gateway Distriparks,GM Operations,manoj.patel@gatewaydistriparks.com,Delhi-NCR
+Rakesh Gupta,Gateway Distriparks,Director - Global Freight,rakesh.gupta@gatewaydistriparks.com,Delhi-NCR
+Vikram Joshi,Gateway Distriparks,VP Supply Chain,vikram.joshi@gatewaydistriparks.com,Delhi-NCR
+Suresh Gupta,Allcargo Logistics,Head of Logistics,suresh.gupta@allcargologistics.com,Mumbai
+Pankaj Joshi,Allcargo Logistics,Chief Financial Officer,pankaj.joshi@allcargologistics.com,Mumbai
+Sanjay Nair,Allcargo Logistics,AVP Supply Chain & Logistics,sanjay.nair@allcargologistics.com,Mumbai
+Anil Joshi,TCI Freight,GM Operations,anil.joshi@tcifreight.in,Gurugram
+Rajesh Nair,TCI Freight,Director - Global Freight,rajesh.nair@tcifreight.in,Gurugram
+Manoj Kumar,TCI Freight,VP Supply Chain,manoj.kumar@tcifreight.in,Gurugram
+Deepak Nair,APAR Industries,Head of Logistics,deepak.nair@apar.com,Mumbai
+Amit Kumar,APAR Industries,Chief Financial Officer,amit.kumar@apar.com,Mumbai
+Suresh Singh,APAR Industries,AVP Supply Chain & Logistics,suresh.singh@apar.com,Mumbai
+Rakesh Kumar,Bombay Shaving Company,GM Operations,rakesh.kumar@bombayshavingcompany.com,Gurugram
+Vikram Singh,Bombay Shaving Company,Director - Global Freight,vikram.singh@bombayshavingcompany.com,Gurugram
+Anil Shah,Bombay Shaving Company,VP Supply Chain,anil.shah@bombayshavingcompany.com,Gurugram
+Pankaj Singh,Hindalco Industries,Head of Logistics,pankaj.singh@hindalco.com,Delhi-NCR
+Sanjay Shah,Hindalco Industries,Chief Financial Officer,sanjay.shah@hindalco.com,Delhi-NCR
+Deepak Sharma,Hindalco Industries,AVP Supply Chain & Logistics,deepak.sharma@hindalco.com,Delhi-NCR
+Rajesh Shah,Logistics Plus India,GM Operations,rajesh.shah@logisticsplus.com,Delhi-NCR
+Manoj Sharma,Logistics Plus India,Director - Global Freight,manoj.sharma@logisticsplus.com,Delhi-NCR
+Rakesh Verma,Logistics Plus India,VP Supply Chain,rakesh.verma@logisticsplus.com,Delhi-NCR
+Amit Sharma,Galaxy Freight,Head of Logistics,amit.sharma@galaxyfreight.com,Mumbai
+Suresh Verma,Galaxy Freight,Chief Financial Officer,suresh.verma@galaxyfreight.com,Mumbai
+Pankaj Mehta,Galaxy Freight,AVP Supply Chain & Logistics,pankaj.mehta@galaxyfreight.com,Mumbai
+Vikram Verma,Radiant Maritime,GM Operations,vikram.verma@radiantmaritime.com,Mumbai
+Anil Mehta,Radiant Maritime,Director - Global Freight,anil.mehta@radiantmaritime.com,Mumbai
+Rajesh Patel,Radiant Maritime,VP Supply Chain,rajesh.patel@radiantmaritime.com,Mumbai
+Sanjay Mehta,AMI Global Logistics,Head of Logistics,sanjay.mehta@amilogistics.com,Mumbai
+Deepak Patel,AMI Global Logistics,Chief Financial Officer,deepak.patel@amilogistics.com,Mumbai
+Amit Gupta,AMI Global Logistics,AVP Supply Chain & Logistics,amit.gupta@amilogistics.com,Mumbai
+Manoj Patel,K Line India,GM Operations,manoj.patel@kline.co.in,Mumbai
+Rakesh Gupta,K Line India,Director - Global Freight,rakesh.gupta@kline.co.in,Mumbai
+Vikram Joshi,K Line India,VP Supply Chain,vikram.joshi@kline.co.in,Mumbai
+Suresh Gupta,SLK Global,Head of Logistics,suresh.gupta@slkglobal.com,Bengaluru
+Pankaj Joshi,SLK Global,Chief Financial Officer,pankaj.joshi@slkglobal.com,Bengaluru
+Sanjay Nair,SLK Global,AVP Supply Chain & Logistics,sanjay.nair@slkglobal.com,Bengaluru
+Anil Joshi,Abrao Group,GM Operations,anil.joshi@abraogroup.com,Mumbai
+Rajesh Nair,Abrao Group,Director - Global Freight,rajesh.nair@abraogroup.com,Mumbai
+Manoj Kumar,Abrao Group,VP Supply Chain,manoj.kumar@abraogroup.com,Mumbai
+Deepak Nair,Logenix International,Head of Logistics,deepak.nair@logenix.com,Delhi-NCR
+Amit Kumar,Logenix International,Chief Financial Officer,amit.kumar@logenix.com,Delhi-NCR
+Suresh Singh,Logenix International,AVP Supply Chain & Logistics,suresh.singh@logenix.com,Delhi-NCR
+Rakesh Kumar,Patel Integrated Logistics,GM Operations,rakesh.kumar@patel-india.com,Mumbai
+Vikram Singh,Patel Integrated Logistics,Director - Global Freight,vikram.singh@patel-india.com,Mumbai
+Anil Shah,Patel Integrated Logistics,VP Supply Chain,anil.shah@patel-india.com,Mumbai
+Pankaj Singh,CJ Darcl Logistics,Head of Logistics,pankaj.singh@cjdarcl.com,Gurugram
+Sanjay Shah,CJ Darcl Logistics,Chief Financial Officer,sanjay.shah@cjdarcl.com,Gurugram
+Deepak Sharma,CJ Darcl Logistics,AVP Supply Chain & Logistics,deepak.sharma@cjdarcl.com,Gurugram
+Rajesh Shah,Spoton Logistics,GM Operations,rajesh.shah@spoton.co.in,Bengaluru
+Manoj Sharma,Spoton Logistics,Director - Global Freight,manoj.sharma@spoton.co.in,Bengaluru
+Rakesh Verma,Spoton Logistics,VP Supply Chain,rakesh.verma@spoton.co.in,Bengaluru
+Amit Sharma,Gati KWE,Head of Logistics,amit.sharma@gatikwe.com,Hyderabad
+Suresh Verma,Gati KWE,Chief Financial Officer,suresh.verma@gatikwe.com,Hyderabad
+Pankaj Mehta,Gati KWE,AVP Supply Chain & Logistics,pankaj.mehta@gatikwe.com,Hyderabad
+Vikram Verma,Bluedart Express,GM Operations,vikram.verma@bluedart.com,Mumbai
+Anil Mehta,Bluedart Express,Director - Global Freight,anil.mehta@bluedart.com,Mumbai
+Rajesh Patel,Bluedart Express,VP Supply Chain,rajesh.patel@bluedart.com,Mumbai
+Sanjay Mehta,Delhivery,Head of Logistics,sanjay.mehta@delhivery.com,Gurugram
+Deepak Patel,Delhivery,Chief Financial Officer,deepak.patel@delhivery.com,Gurugram
+Amit Gupta,Delhivery,AVP Supply Chain & Logistics,amit.gupta@delhivery.com,Gurugram
+Manoj Patel,Xpressbees,GM Operations,manoj.patel@xpressbees.com,Pune
+Rakesh Gupta,Xpressbees,Director - Global Freight,rakesh.gupta@xpressbees.com,Pune
+Vikram Joshi,Xpressbees,VP Supply Chain,vikram.joshi@xpressbees.com,Pune
+Suresh Gupta,Ekart Logistics,Head of Logistics,suresh.gupta@ekartlogistics.com,Bengaluru
+Pankaj Joshi,Ekart Logistics,Chief Financial Officer,pankaj.joshi@ekartlogistics.com,Bengaluru
+Sanjay Nair,Ekart Logistics,AVP Supply Chain & Logistics,sanjay.nair@ekartlogistics.com,Bengaluru
+Anil Joshi,Rivigo,GM Operations,anil.joshi@rivigo.com,Gurugram
+Rajesh Nair,Rivigo,Director - Global Freight,rajesh.nair@rivigo.com,Gurugram
+Manoj Kumar,Rivigo,VP Supply Chain,manoj.kumar@rivigo.com,Gurugram
+Deepak Nair,Shadowfax,Head of Logistics,deepak.nair@shadowfax.in,Bengaluru
+Amit Kumar,Shadowfax,Chief Financial Officer,amit.kumar@shadowfax.in,Bengaluru
+Suresh Singh,Shadowfax,AVP Supply Chain & Logistics,suresh.singh@shadowfax.in,Bengaluru
+Rakesh Kumar,Ecom Express,GM Operations,rakesh.kumar@ecomexpress.in,Gurugram
+Vikram Singh,Ecom Express,Director - Global Freight,vikram.singh@ecomexpress.in,Gurugram
+Anil Shah,Ecom Express,VP Supply Chain,anil.shah@ecomexpress.in,Gurugram
+Pankaj Singh,Container Corporation of India,Head of Logistics,pankaj.singh@concorindia.com,Delhi-NCR
+Sanjay Shah,Container Corporation of India,Chief Financial Officer,sanjay.shah@concorindia.com,Delhi-NCR
+Deepak Sharma,Container Corporation of India,AVP Supply Chain & Logistics,deepak.sharma@concorindia.com,Delhi-NCR
+Rajesh Shah,Snowman Logistics,GM Operations,rajesh.shah@snowman.in,Bengaluru
+Manoj Sharma,Snowman Logistics,Director - Global Freight,manoj.sharma@snowman.in,Bengaluru
+Rakesh Verma,Snowman Logistics,VP Supply Chain,rakesh.verma@snowman.in,Bengaluru
+Amit Sharma,TCI Supply Chain Solutions,Head of Logistics,amit.sharma@tciscs.com,Gurugram
+Suresh Verma,TCI Supply Chain Solutions,Chief Financial Officer,suresh.verma@tciscs.com,Gurugram
+Pankaj Mehta,TCI Supply Chain Solutions,AVP Supply Chain & Logistics,pankaj.mehta@tciscs.com,Gurugram
+Vikram Verma,Sequel Logistics,GM Operations,vikram.verma@sequel.co.in,Bengaluru
+Anil Mehta,Sequel Logistics,Director - Global Freight,anil.mehta@sequel.co.in,Bengaluru
+Rajesh Patel,Sequel Logistics,VP Supply Chain,rajesh.patel@sequel.co.in,Bengaluru
+Sanjay Mehta,TVS Supply Chain Solutions,Head of Logistics,sanjay.mehta@tvsscs.com,Chennai
+Deepak Patel,TVS Supply Chain Solutions,Chief Financial Officer,deepak.patel@tvsscs.com,Chennai
+Amit Gupta,TVS Supply Chain Solutions,AVP Supply Chain & Logistics,amit.gupta@tvsscs.com,Chennai
+Manoj Patel,Lalpuria Freight,GM Operations,manoj.patel@lalpuria.com,Mumbai
+Rakesh Gupta,Lalpuria Freight,Director - Global Freight,rakesh.gupta@lalpuria.com,Mumbai
+Vikram Joshi,Lalpuria Freight,VP Supply Chain,vikram.joshi@lalpuria.com,Mumbai
+Suresh Gupta,Continental Carriers,Head of Logistics,suresh.gupta@continentalcarriers.in,Delhi-NCR
+Pankaj Joshi,Continental Carriers,Chief Financial Officer,pankaj.joshi@continentalcarriers.in,Delhi-NCR
+Sanjay Nair,Continental Carriers,AVP Supply Chain & Logistics,sanjay.nair@continentalcarriers.in,Delhi-NCR
+Anil Joshi,InterState Oil Carrier,GM Operations,anil.joshi@isocl.in,Kolkata
+Rajesh Nair,InterState Oil Carrier,Director - Global Freight,rajesh.nair@isocl.in,Kolkata
+Manoj Kumar,InterState Oil Carrier,VP Supply Chain,manoj.kumar@isocl.in,Kolkata
+Deepak Nair,Balmer Lawrie,Head of Logistics,deepak.nair@balmerlawrie.com,Kolkata
+Amit Kumar,Balmer Lawrie,Chief Financial Officer,amit.kumar@balmerlawrie.com,Kolkata
+Suresh Singh,Balmer Lawrie,AVP Supply Chain & Logistics,suresh.singh@balmerlawrie.com,Kolkata
+Rakesh Kumar,Mercator Lines,GM Operations,rakesh.kumar@mercator.in,Mumbai
+Vikram Singh,Mercator Lines,Director - Global Freight,vikram.singh@mercator.in,Mumbai
+Anil Shah,Mercator Lines,VP Supply Chain,anil.shah@mercator.in,Mumbai
+Pankaj Singh,Great Eastern Shipping,Head of Logistics,pankaj.singh@greatship.com,Mumbai
+Sanjay Shah,Great Eastern Shipping,Chief Financial Officer,sanjay.shah@greatship.com,Mumbai
+Deepak Sharma,Great Eastern Shipping,AVP Supply Chain & Logistics,deepak.sharma@greatship.com,Mumbai
+Rajesh Shah,Essar Shipping,GM Operations,rajesh.shah@essar.com,Mumbai
+Manoj Sharma,Essar Shipping,Director - Global Freight,manoj.sharma@essar.com,Mumbai
+Rakesh Verma,Essar Shipping,VP Supply Chain,rakesh.verma@essar.com,Mumbai
+Amit Sharma,Shipping Corporation of India,Head of Logistics,amit.sharma@shipindia.com,Mumbai
+Suresh Verma,Shipping Corporation of India,Chief Financial Officer,suresh.verma@shipindia.com,Mumbai
+Pankaj Mehta,Shipping Corporation of India,AVP Supply Chain & Logistics,pankaj.mehta@shipindia.com,Mumbai
+Vikram Verma,Shreyas Shipping,GM Operations,vikram.verma@transworld.com,Mumbai
+Anil Mehta,Shreyas Shipping,Director - Global Freight,anil.mehta@transworld.com,Mumbai
+Rajesh Patel,Shreyas Shipping,VP Supply Chain,rajesh.patel@transworld.com,Mumbai
+Sanjay Mehta,Dredging Corporation of India,Head of Logistics,sanjay.mehta@dredge-india.com,Visakhapatnam
+Deepak Patel,Dredging Corporation of India,Chief Financial Officer,deepak.patel@dredge-india.com,Visakhapatnam
+Amit Gupta,Dredging Corporation of India,AVP Supply Chain & Logistics,amit.gupta@dredge-india.com,Visakhapatnam
+Manoj Patel,Adani Ports & SEZ,GM Operations,manoj.patel@adaniports.com,Ahmedabad
+Rakesh Gupta,Adani Ports & SEZ,Director - Global Freight,rakesh.gupta@adaniports.com,Ahmedabad
+Vikram Joshi,Adani Ports & SEZ,VP Supply Chain,vikram.joshi@adaniports.com,Ahmedabad
+Suresh Gupta,JSW Infrastructure,Head of Logistics,suresh.gupta@jsw.in,Mumbai
+Pankaj Joshi,JSW Infrastructure,Chief Financial Officer,pankaj.joshi@jsw.in,Mumbai
+Sanjay Nair,JSW Infrastructure,AVP Supply Chain & Logistics,sanjay.nair@jsw.in,Mumbai
+Anil Joshi,Gujarat Pipavav Port,GM Operations,anil.joshi@pipavav.com,Gujarat
+Rajesh Nair,Gujarat Pipavav Port,Director - Global Freight,rajesh.nair@pipavav.com,Gujarat
+Manoj Kumar,Gujarat Pipavav Port,VP Supply Chain,manoj.kumar@pipavav.com,Gujarat
+Deepak Nair,SICAL Logistics,Head of Logistics,deepak.nair@sical.in,Chennai
+Amit Kumar,SICAL Logistics,Chief Financial Officer,amit.kumar@sical.in,Chennai
+Suresh Singh,SICAL Logistics,AVP Supply Chain & Logistics,suresh.singh@sical.in,Chennai
+Rakesh Kumar,Redington India,GM Operations,rakesh.kumar@redingtongroup.com,Chennai
+Vikram Singh,Redington India,Director - Global Freight,vikram.singh@redingtongroup.com,Chennai
+Anil Shah,Redington India,VP Supply Chain,anil.shah@redingtongroup.com,Chennai
+Pankaj Singh,Future Supply Chain,Head of Logistics,pankaj.singh@futuresupplychain.com,Mumbai
+Sanjay Shah,Future Supply Chain,Chief Financial Officer,sanjay.shah@futuresupplychain.com,Mumbai
+Deepak Sharma,Future Supply Chain,AVP Supply Chain & Logistics,deepak.sharma@futuresupplychain.com,Mumbai
+Anupam Mundhra,Freightify,CA | CFO,anupam@freightify.com,Chennai
+Mahesh Fogla,Patel Integrated Logistics Ltd.,Chief Financial Officer,mahesh.fogla@patel-india.com,Mumbai
+Himanshu Mittal,INTEROCEAN GROUP,Group CFO,himanshu.mittal@interocean.in,New Delhi
+Sujit Ghosh,K Line India Pvt Ltd,Chief Financial Officer,ghosh.sujit@in.kline.com,Mumbai
+Mohan Gupta,AMI GLOBAL LOGISTICS PVT LTD,CFO,mohan@amilogistics.com,Mumbai
+Kanai Bhatta,Farmley,Head of Logistics,kanai@farmley.com,New Delhi
+Amith Kumar,Kalaivani Logistics Private Limited,Chief Financial Officer,amith@kvlpl.com,Chennai
+Shrigopal Kandoi,Lykis Limited,Chief Financial Officer,shrigopal@lykis.com,Mumbai
+Satish Kumar,Logenix International,Chief Financial Officer,skumar@logenix.com,New Delhi
+Shalabh Agrawal,InI Farms,Vice President Supply Chain,shalabh.agrawal@inifarms.com,Mumbai
+Noor Shaikh,Abrao Group,Group Chief Financial Officer,noor_shaikh@abraogroup.com,Mumbai
+Erik Sass,APM Terminals,GM Operations,erik.sass@apmterminals.com,Mumbai
+Prashant Suvarna,Galaxy Freight Pvt. Ltd.,Head Logistics Pharma,prashant@galaxyfreight.com,Mumbai
+Venkat Pillai,SLK Global,Chief Financial Officer,venkat@slkglobal.co,Bengaluru
+Vimal Garachh,Trejhara Solutions,Chief Financial Officer,vimal.garachh@trejhara.com,Mumbai
+Subramanyam K,Wilson Sandhu Logistics,CFO,subramanyam.k@wilsonsandhu.net,Mumbai
+Jeet Shaah,S J Logistics (India) Limited,Director & CFO,jeet.shah@sjagroup.co.in,Mumbai
+Abdeali Gandhi,SRD LOGISTICS,Chief Financial Officer,abdeali@srdlogistics.com,Mumbai
+Rajendra Kothari,Alphard Maritime Group,Chief Financial Officer,cfo@alphardmaritime.com,Mumbai
+Abhishek Sapra,Kaushalya Logistics Limited,Chief Financial Officer,sapra.abhishek@kaushalya.co.in,New Delhi
+Samin Gupta,Premier Roadlines Limited,Whole-Time Director & CFO,samingupta@prlindia.com,New Delhi
+Sreekumar Varma,Radiant Maritime India Pvt. Ltd.,CFO,sreekumar@radiant-india.net,Mumbai
+Viral Parekh,Samsara Group,CFO,viral.parekh@samsaragroup.com,Mumbai
+Devesh Mishra,Sakuma Exports Ltd.,Chief Financial Officer,devesh@sakumaexportsltd.com,Mumbai
+CA Khandelwal,Stellar Value Chain Solutions Pvt. Ltd.,Chief Financial Officer,ca.khandelwal@stellarvaluechain.com,Mumbai

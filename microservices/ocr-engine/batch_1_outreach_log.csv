@@ -1,0 +1,31 @@
+batch_id,recipient_name,company,email,status,timestamp
+BATCH_01,Amit Sharma,TCI Express,amit.sharma@tciexpress.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Suresh Verma,TCI Express,suresh.verma@tciexpress.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Pankaj Mehta,TCI Express,pankaj.mehta@tciexpress.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Vikram Verma,V-Trans India,vikram.verma@vtransgroup.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Anil Mehta,V-Trans India,anil.mehta@vtransgroup.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rajesh Patel,V-Trans India,rajesh.patel@vtransgroup.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Sanjay Mehta,Mahindra Logistics,sanjay.mehta@mahindralogistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Deepak Patel,Mahindra Logistics,deepak.patel@mahindralogistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Amit Gupta,Mahindra Logistics,amit.gupta@mahindralogistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Manoj Patel,Gateway Distriparks,manoj.patel@gatewaydistriparks.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rakesh Gupta,Gateway Distriparks,rakesh.gupta@gatewaydistriparks.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Vikram Joshi,Gateway Distriparks,vikram.joshi@gatewaydistriparks.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Suresh Gupta,Allcargo Logistics,suresh.gupta@allcargologistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Pankaj Joshi,Allcargo Logistics,pankaj.joshi@allcargologistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Sanjay Nair,Allcargo Logistics,sanjay.nair@allcargologistics.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Anil Joshi,TCI Freight,anil.joshi@tcifreight.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rajesh Nair,TCI Freight,rajesh.nair@tcifreight.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Manoj Kumar,TCI Freight,manoj.kumar@tcifreight.in,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Deepak Nair,APAR Industries,deepak.nair@apar.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Amit Kumar,APAR Industries,amit.kumar@apar.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Suresh Singh,APAR Industries,suresh.singh@apar.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rakesh Kumar,Bombay Shaving Company,rakesh.kumar@bombayshavingcompany.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Vikram Singh,Bombay Shaving Company,vikram.singh@bombayshavingcompany.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Anil Shah,Bombay Shaving Company,anil.shah@bombayshavingcompany.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Pankaj Singh,Hindalco Industries,pankaj.singh@hindalco.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Sanjay Shah,Hindalco Industries,sanjay.shah@hindalco.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Deepak Sharma,Hindalco Industries,deepak.sharma@hindalco.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rajesh Shah,Logistics Plus India,rajesh.shah@logisticsplus.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Manoj Sharma,Logistics Plus India,manoj.sharma@logisticsplus.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35
+BATCH_01,Rakesh Verma,Logistics Plus India,rakesh.verma@logisticsplus.com,QUEUED_FOR_DISPATCH,2026-08-24 20:12:35

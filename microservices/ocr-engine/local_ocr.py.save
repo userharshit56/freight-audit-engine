@@ -1,0 +1,29 @@
+import pytesseract
+from pdf2image import convert_from_path
+from paddleocr import PaddleOCR
+import numpy as np
+      self.paddle = PaddleOCR(use_angle_cls=True, lang='en', use_gpu=True)class LocalOCREngine:
+    def __init__(self):
+        # Initialize GPU-accelerated PaddleOCR engine
+        self.paddle = PaddleOCR(use_angle_cls=True, lang='en', use_gpu=True)
+
+    def extract_text_from_pdf(self, pdf_path: str) -> str:
+        images = convert_from_path(pdf_path)
+        full_text = []
+
+        for i, image in enumerate(images):
+            img_np = np.array(image)
+            # Run PaddleOCR layout and text detection
+            result = self.paddle.ocr(img_np, cls=True)
+            page_text = []
+            
+            if result and result[0]:
+                for line in result[0]:
+                    page_text.append(line[1][0])
+            else:
+                # Fallback to Tesseract OCR if Paddle OCR produces empty output
+                page_text.append(pytesseract.image_to_string(image))
+            
+            full_text.append(f"--- Page {i+1} ---\n" + "\n".join(page_text))
+
+        return "\n\n".join(full_text)
